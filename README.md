@@ -1,6 +1,5 @@
-# portfolio
-private portfolio of some notable projects 
-
+# Peter's Personal Portfolio
+Private portfolio of some notable projects 
 
 * Kaggle NFL Project - https://github.com/phatk/NFL_Big_Data
 
