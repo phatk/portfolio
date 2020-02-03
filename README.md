@@ -11,4 +11,4 @@ Private portfolio of some notable projects
 
 * Heap Allocator Project - https://github.com/phatk/heapAllocator
 
-* Internship - https://github.com/phatk/internship
+* SEA Internship - https://github.com/phatk/internship
