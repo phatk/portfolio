@@ -10,7 +10,7 @@ Private portfolio of some notable projects
 * Matlab codes having taken CME 100, 102, 104, MS&E 211X, and MS&E 221 - https://github.com/phatk/matlab
 (https://explorecourses.stanford.edu/ for more courses info)
 
-* Hackathon Web Application - Teaching Kids to Code Via Gamification - https://code4all-474f4.firebaseapp.com/#/game
+* Teaching Kids to Code Via Gamification (Hackathon Web Application) - https://code4all-474f4.firebaseapp.com/#/game
 
 * Heap Allocator Project - https://github.com/phatk/heapAllocator
 
