@@ -7,7 +7,8 @@ Private portfolio of some notable projects
 
 * Applied Machine Learning Project - https://github.com/ericksiavichay/CS-229A-Final-Project
 
-* Matlab codes having taken 5 courses requiring Matlab - https://github.com/phatk/matlab
+* Matlab codes having taken CME 100, 102, 104, MS&E 211X, and MS&E 221 - https://github.com/phatk/matlab
+(https://explorecourses.stanford.edu/ for courses info)
 
 * Hackathon Web Application - Teaching Kids to Code Via Gamification - https://code4all-474f4.firebaseapp.com/#/game
 
