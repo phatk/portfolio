@@ -7,7 +7,7 @@ Private portfolio of some notable projects
 
 * Applied Machine Learning Project - https://github.com/ericksiavichay/CS-229A-Final-Project
 
-* Matlab codes having taken 5 Stanford courses - https://github.com/phatk/matlab
+* Snippets of Matlab codes having taken 5 Stanford courses below - https://github.com/phatk/matlab
     * CME 100: Vector Calculus for Engineers
     * CME 102: Ordinary Differential Equations for Engineers
     * CME 104: Linear Algebra and Partial Differential Equations for Engineers
