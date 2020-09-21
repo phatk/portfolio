@@ -20,7 +20,7 @@ Private portfolio of some notable projects
 
 * SEA Internship - https://github.com/phatk/internship
 
-PDFs
+# Peter's PDFs of his notable projects/work
 
 * my IB Extended Essay (aka how I got into Stanford in 2014) - http://web.stanford.edu/~phatk/ee.pdf
 
