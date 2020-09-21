@@ -19,3 +19,13 @@ Private portfolio of some notable projects
 * Heap Allocator Project - https://github.com/phatk/heapAllocator
 
 * SEA Internship - https://github.com/phatk/internship
+
+PDFs
+
+* my IB Extended Essay (aka how I got into Stanford in 2014) - http://web.stanford.edu/~phatk/ee.pdf
+
+* Published Political Science Paper - http://web.stanford.edu/~phatk/thai-polisci-paper.pdf
+
+* CS 229A Poster - http://web.stanford.edu/~phatk/ee.pdf
+
+* CS 230 Poster - http://web.stanford.edu/~phatk/ee.pdf
